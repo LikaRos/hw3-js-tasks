@@ -1,1 +1,1 @@
-# hw3-tjs-tasks
+# hw3-js-tasks
